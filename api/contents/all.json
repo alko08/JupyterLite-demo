@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-28T15:28:11.704370Z",
+      "created": "2022-08-02T19:43:56.982224Z",
       "format": null,
-      "last_modified": "2022-06-28T15:26:56.788280Z",
+      "last_modified": "2022-08-02T19:42:29.086097Z",
       "mimetype": null,
       "name": "OnshapeAPISnippets.ipynb",
       "path": "OnshapeAPISnippets.ipynb",
@@ -14,9 +14,45 @@
     },
     {
       "content": null,
-      "created": "2022-06-28T15:28:11.704370Z",
+      "created": "2022-08-02T19:43:56.982224Z",
       "format": null,
-      "last_modified": "2022-06-28T15:28:09.536367Z",
+      "last_modified": "2022-08-02T19:42:29.086097Z",
+      "mimetype": null,
+      "name": "Lorenz.ipynb",
+      "path": "Lorenz.ipynb",
+      "size": 6642,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T19:43:56.982224Z",
+      "format": null,
+      "last_modified": "2022-08-02T19:42:29.086097Z",
+      "mimetype": null,
+      "name": "Intro.ipynb",
+      "path": "Intro.ipynb",
+      "size": 80006,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T19:43:56.986224Z",
+      "format": null,
+      "last_modified": "2022-08-02T19:42:29.086097Z",
+      "mimetype": null,
+      "name": "sqlite.ipynb",
+      "path": "sqlite.ipynb",
+      "size": 24512,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-02T19:43:56.982224Z",
+      "format": null,
+      "last_modified": "2022-08-02T19:43:52.558204Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-28T15:28:11.704370Z",
+  "created": "2022-08-02T19:43:56.986224Z",
   "format": "json",
-  "last_modified": "2022-06-28T15:28:11.704370Z",
+  "last_modified": "2022-08-02T19:43:56.986224Z",
   "mimetype": null,
   "name": "",
   "path": "",
